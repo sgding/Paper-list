@@ -8,5 +8,4 @@
 ## 网络结构
 ### 方向盘转角模型
 
-![](https://github.com/sgding/Paper-list/planning/end-to-end/pictures/steering-image.png) 
-![baidu](http://www.baidu.com/img/bdlogo.gif)  
+![](https://github.com/sgding/Paper-list/blob/master/planning/end-to-end/pictures/steering-image.png) 
